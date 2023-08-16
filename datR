@@ -1,0 +1,2 @@
+dat=rnorm(1000)
+hist(datos)
